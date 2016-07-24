@@ -5,7 +5,6 @@ A PHP wrapper for MaxMind's GeoIP database
 - No external dependencies
 - Fast lookups
 - Embedded database (SQLite)
-- Response in JSON format
 
 # How it works
 The script converts the CSV files into an SQLite database and JSON files.
